@@ -1,0 +1,217 @@
+Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
+All Countries and International Organizations,,,,,,11755.0,
+United States,19.0,27.0,187.0,4.0,606.0,936.0,93.0
+"China, P.R.: Mainland",37.0,14.0,302.0,75.0,315.0,751.0,8.0
+India,9.0,54.0,270.0,46.0,154.0,537.0,4.0
+Philippines,9.0,,150.0,30.0,301.0,491.0,1.0
+Indonesia,8.0,,250.0,64.0,10.0,343.0,11.0
+Bangladesh,3.0,24.0,85.0,6.0,135.0,253.0,
+Vietnam,7.0,,102.0,6.0,126.0,242.0,1.0
+Brazil,18.0,5.0,153.0,19.0,18.0,217.0,4.0
+Mexico,6.0,15.0,69.0,10.0,110.0,214.0,4.0
+Japan,,17.0,37.0,16.0,133.0,204.0,1.0
+Australia,6.0,7.0,62.0,2.0,80.0,189.0,32.0
+France,5.0,22.0,59.0,7.0,76.0,182.0,13.0
+Pakistan,2.0,17.0,108.0,22.0,28.0,178.0,1.0
+Colombia,2.0,,101.0,39.0,11.0,157.0,4.0
+Russian Federation,5.0,21.0,70.0,10.0,25.0,156.0,25.0
+Thailand,12.0,2.0,94.0,3.0,43.0,155.0,1.0
+"Afghanistan, Islamic Rep. of",6.0,8.0,99.0,27.0,9.0,150.0,1.0
+Peru,6.0,12.0,65.0,31.0,4.0,120.0,2.0
+Canada,2.0,6.0,44.0,,39.0,115.0,24.0
+Haiti,6.0,,62.0,1.0,39.0,108.0,
+"Iran, Islamic Rep. of",2.0,,85.0,4.0,16.0,108.0,1.0
+South Africa,11.0,3.0,50.0,1.0,33.0,108.0,10.0
+Italy,6.0,11.0,45.0,11.0,27.0,108.0,8.0
+Sri Lanka,10.0,,77.0,4.0,15.0,106.0,
+Argentina,4.0,7.0,60.0,4.0,21.0,104.0,8.0
+"Korea, Rep. of",1.0,4.0,27.0,6.0,51.0,97.0,6.0
+Nepal,2.0,7.0,53.0,22.0,7.0,94.0,3.0
+Spain,5.0,10.0,32.0,1.0,27.0,94.0,19.0
+United Kingdom,1.0,13.0,34.0,,44.0,92.0,
+Bolivia,13.0,5.0,52.0,9.0,2.0,88.0,7.0
+Malaysia,2.0,,70.0,5.0,7.0,88.0,4.0
+Germany,,14.0,18.0,1.0,53.0,86.0,
+"Mozambique, Rep. of",14.0,,39.0,2.0,29.0,85.0,1.0
+Romania,2.0,19.0,50.0,1.0,12.0,84.0,
+"Türkiye, Rep. of",,7.0,46.0,12.0,12.0,83.0,6.0
+Taiwan Province of China,,1.0,7.0,1.0,74.0,83.0,
+"Madagascar, Rep. of",10.0,,11.0,,61.0,82.0,
+"Ethiopia, The Federal Dem. Rep. of",15.0,,57.0,7.0,,80.0,1.0
+Guatemala,7.0,4.0,36.0,11.0,20.0,80.0,2.0
+Kenya,14.0,,57.0,5.0,1.0,77.0,
+Chile,1.0,8.0,35.0,3.0,11.0,74.0,16.0
+Cuba,7.0,,25.0,,40.0,74.0,2.0
+Honduras,11.0,,36.0,,23.0,72.0,2.0
+Dominican Rep.,,,32.0,,37.0,71.0,2.0
+Nigeria,2.0,2.0,58.0,3.0,6.0,71.0,
+Somalia,14.0,,49.0,,7.0,70.0,
+"Tanzania, United Rep. of",9.0,,51.0,1.0,7.0,69.0,1.0
+Greece,1.0,8.0,27.0,,8.0,62.0,18.0
+"Poland, Rep. of",1.0,19.0,15.0,,23.0,60.0,2.0
+Uganda,8.0,,37.0,10.0,5.0,60.0,
+New Zealand,2.0,1.0,38.0,,17.0,60.0,2.0
+Algeria,1.0,3.0,45.0,1.0,4.0,59.0,5.0
+"Congo, Dem. Rep. of the",2.0,,42.0,7.0,5.0,59.0,3.0
+Malawi,9.0,,40.0,1.0,8.0,58.0,
+Angola,9.0,,47.0,1.0,,57.0,
+Belgium,,13.0,15.0,,28.0,56.0,
+Sudan,10.0,1.0,40.0,,3.0,55.0,1.0
+Myanmar,,,32.0,10.0,12.0,55.0,1.0
+Nicaragua,6.0,,19.0,1.0,25.0,54.0,3.0
+"Tajikistan, Rep. of",2.0,3.0,33.0,14.0,2.0,54.0,
+Switzerland,,6.0,8.0,6.0,34.0,54.0,
+"Venezuela, Rep. Bolivariana de",1.0,,42.0,5.0,5.0,53.0,
+"China, P.R.: Hong Kong",2.0,1.0,11.0,2.0,36.0,53.0,1.0
+Ecuador,3.0,,34.0,11.0,,51.0,3.0
+"Yemen, Rep. of",,,40.0,3.0,7.0,50.0,
+El Salvador,7.0,1.0,18.0,3.0,20.0,49.0,
+Austria,,6.0,18.0,4.0,20.0,48.0,
+Burundi,6.0,,32.0,3.0,7.0,48.0,
+"Fiji, Rep. of",3.0,,10.0,,35.0,48.0,
+Paraguay,8.0,3.0,27.0,,8.0,48.0,2.0
+Portugal,4.0,7.0,11.0,,10.0,47.0,15.0
+Bulgaria,2.0,9.0,23.0,,8.0,47.0,5.0
+Panama,4.0,,35.0,,7.0,47.0,1.0
+Niger,12.0,,33.0,,1.0,46.0,
+Costa Rica,4.0,,27.0,1.0,11.0,44.0,1.0
+"Korea, Dem. People's Rep. of",4.0,1.0,30.0,,11.0,44.0,
+Papua New Guinea,3.0,,20.0,12.0,6.0,42.0,1.0
+Lao People's Dem. Rep.,5.0,,25.0,,11.0,41.0,
+Cambodia,6.0,,25.0,,9.0,40.0,
+Mongolia,1.0,7.0,14.0,1.0,14.0,40.0,3.0
+Rwanda,5.0,,27.0,5.0,2.0,39.0,
+Morocco,3.0,6.0,24.0,2.0,4.0,39.0,
+Ukraine,1.0,8.0,17.0,,10.0,38.0,2.0
+"Netherlands, The",,8.0,4.0,,26.0,38.0,
+Uruguay,3.0,4.0,22.0,,8.0,37.0,
+Mali,9.0,,27.0,,,36.0,
+Central African Rep.,2.0,,18.0,,11.0,34.0,3.0
+Zambia,7.0,,26.0,1.0,,34.0,
+Chad,8.0,,22.0,1.0,2.0,33.0,
+"Mauritania, Islamic Rep. of",9.0,,21.0,,3.0,33.0,
+Czech Rep.,,6.0,15.0,,12.0,33.0,
+Zimbabwe,9.0,,13.0,,10.0,32.0,
+Hungary,3.0,6.0,15.0,,8.0,32.0,
+Burkina Faso,10.0,,22.0,,,32.0,
+Ghana,1.0,,29.0,,1.0,32.0,1.0
+Jamaica,3.0,,7.0,,21.0,31.0,
+Senegal,5.0,,22.0,,3.0,30.0,
+"Croatia, Rep. of",1.0,6.0,14.0,,3.0,30.0,6.0
+"Serbia, Rep. of",,9.0,19.0,,2.0,30.0,
+Bosnia and Herzegovina,2.0,4.0,19.0,1.0,3.0,29.0,
+Soviet Union (former),,,18.0,5.0,4.0,28.0,1.0
+Namibia,9.0,,18.0,,,27.0,
+Cameroon,5.0,,18.0,4.0,,27.0,
+Albania,1.0,5.0,16.0,1.0,2.0,26.0,1.0
+Vanuatu,,,2.0,1.0,23.0,26.0,
+Benin,1.0,,21.0,,1.0,25.0,2.0
+Saudi Arabia,,,23.0,,2.0,25.0,
+Slovak Rep.,,5.0,14.0,,4.0,24.0,1.0
+Georgia,1.0,,20.0,,3.0,24.0,
+Ireland,,,6.0,,17.0,23.0,
+Solomon Islands,3.0,,5.0,,15.0,23.0,
+"Kazakhstan, Rep. of",1.0,3.0,14.0,1.0,1.0,22.0,2.0
+"Egypt, Arab Rep. of",,4.0,11.0,,7.0,22.0,
+Guinea,2.0,,17.0,1.0,1.0,22.0,1.0
+"North Macedonia, Republic of ",1.0,6.0,11.0,,1.0,22.0,3.0
+"Gambia, The",4.0,,11.0,,6.0,21.0,
+"Lesotho, Kingdom of",8.0,,5.0,,8.0,21.0,
+Kyrgyz Rep.,1.0,3.0,4.0,10.0,2.0,20.0,
+"Bahamas, The",,,2.0,,18.0,20.0,
+"South Sudan, Rep. of",3.0,,15.0,,,19.0,1.0
+Djibouti,10.0,,7.0,,2.0,19.0,
+Iraq,2.0,,14.0,,2.0,18.0,
+"Congo, Rep. of",1.0,,16.0,,,17.0,
+St. Lucia,1.0,,3.0,1.0,12.0,17.0,
+Côte d'Ivoire,1.0,,15.0,1.0,,17.0,
+Sierra Leone,,,11.0,2.0,3.0,17.0,1.0
+Israel,1.0,2.0,5.0,,4.0,17.0,5.0
+Belize,,1.0,4.0,,12.0,17.0,
+St. Vincent and the Grenadines,1.0,,6.0,,10.0,17.0,
+"Eswatini, Kingdom of",7.0,,3.0,,5.0,16.0,1.0
+Togo,2.0,,14.0,,,16.0,
+Tonga,1.0,,,,15.0,16.0,
+Denmark,1.0,,,,15.0,16.0,
+"Moldova, Rep. of",3.0,3.0,7.0,,3.0,16.0,
+Mauritius,1.0,,1.0,,14.0,16.0,
+Tunisia,1.0,,13.0,,,16.0,2.0
+Botswana,4.0,,10.0,,1.0,15.0,
+Oman,,,4.0,,11.0,15.0,
+Lithuania,3.0,6.0,2.0,,3.0,14.0,
+Norway,,,3.0,2.0,8.0,13.0,
+Lebanon,,2.0,2.0,,7.0,13.0,2.0
+"Belarus, Rep. of",,6.0,5.0,,2.0,13.0,
+Serbia and Montenegro,,2.0,9.0,,1.0,13.0,1.0
+Jordan,2.0,3.0,5.0,,3.0,13.0,
+Syrian Arab Rep.,3.0,,3.0,1.0,5.0,13.0,1.0
+Luxembourg,,1.0,3.0,,9.0,13.0,
+Guyana,3.0,,9.0,,,12.0,
+"Comoros, Union of the",1.0,,2.0,,8.0,11.0,
+Samoa,1.0,,1.0,,8.0,11.0,1.0
+"Armenia, Rep. of",1.0,1.0,3.0,1.0,5.0,11.0,
+Sweden,,1.0,2.0,,7.0,11.0,1.0
+Guinea-Bissau,3.0,,4.0,,3.0,11.0,1.0
+"Slovenia, Rep. of",,2.0,5.0,,4.0,11.0,
+Barbados,1.0,,1.0,,9.0,11.0,
+"Micronesia, Federated States of",3.0,,1.0,,7.0,11.0,
+Cabo Verde,6.0,,2.0,,3.0,11.0,
+Cyprus,2.0,3.0,,,3.0,10.0,2.0
+Dominica,,,,,10.0,10.0,
+"Timor-Leste, Dem. Rep. of",2.0,,6.0,,2.0,10.0,
+Antigua and Barbuda,1.0,,,,9.0,10.0,
+Liberia,1.0,1.0,6.0,,2.0,10.0,
+"Azerbaijan, Rep. of",1.0,1.0,7.0,1.0,,10.0,
+St. Kitts and Nevis,,,1.0,,8.0,9.0,
+Trinidad and Tobago,1.0,,4.0,1.0,3.0,9.0,
+Latvia,,4.0,1.0,,3.0,9.0,1.0
+West Bank and Gaza,,2.0,4.0,,3.0,9.0,
+Tuvalu,2.0,,,,6.0,8.0,
+United States Virgin Islands,,,,,8.0,8.0,
+Guam,,,,,8.0,8.0,
+Bhutan,,,4.0,,2.0,7.0,1.0
+Cayman Islands,,,,,7.0,7.0,
+Cook Islands,,,,,7.0,7.0,
+French Polynesia,,,1.0,3.0,3.0,7.0,
+Germany Fed Rep (former),,,3.0,,3.0,7.0,1.0
+"Marshall Islands, Rep. of the",3.0,,2.0,,2.0,7.0,
+Turks and Caicos Islands,,,,,7.0,7.0,
+"Uzbekistan, Rep. of",1.0,,3.0,2.0,,6.0,
+"China, P.R.: Macao",,,,,6.0,6.0,
+New Caledonia,,,,,6.0,6.0,
+Montenegro,,1.0,4.0,,,6.0,1.0
+Gabon,,,2.0,,4.0,6.0,
+"Eritrea, The State of",3.0,,2.0,,1.0,6.0,
+Grenada,1.0,,,,5.0,6.0,
+Canary Island,,1.0,2.0,,2.0,6.0,1.0
+Bermuda,,,,,5.0,5.0,
+Maldives,,,3.0,,2.0,5.0,
+Northern Mariana Islands,,,,,4.0,4.0,
+Kiribati,1.0,,2.0,,1.0,4.0,
+"Palau, Rep. of",1.0,,,,3.0,4.0,
+Suriname,,,4.0,,,4.0,
+Libya,,,3.0,,1.0,4.0,
+Seychelles,,,2.0,,2.0,4.0,
+"Estonia, Rep. of",,3.0,,,1.0,4.0,
+Iceland,,,1.0,3.0,,4.0,
+American Samoa,,,1.0,,3.0,4.0,
+Finland,,,1.0,,2.0,3.0,
+Germany Dem Rep (former),,,,,3.0,3.0,
+Montserrat,,,,,3.0,3.0,
+British Virgin Islands,,,,,3.0,3.0,
+Tokelau,,,,,3.0,3.0,
+Netherlands Antilles,,,,,2.0,2.0,
+Kuwait,,,2.0,,,2.0,
+Anguilla,,,,,2.0,2.0,
+Azores Island,,,,1.0,1.0,2.0,
+"São Tomé and Príncipe, Dem. Rep. of",1.0,,1.0,,,2.0,
+Wallis and Futuna Islands,,,,,2.0,2.0,
+Brunei Darussalam,,,,,,1.0,1.0
+United Arab Emirates,,,1.0,,,1.0,
+Turkmenistan,,,1.0,,,1.0,
+Qatar,,,1.0,,,1.0,
+Saint Barthélemy,,,,,1.0,1.0,
+Saint Helena,,,,,1.0,1.0,
+Saint Martin (French Part),,,,,1.0,1.0,
+"Sint Maarten, Kingdom of the Netherlands",,,,,1.0,1.0,
+Isle of Man,,,,,1.0,1.0,
